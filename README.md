@@ -1,4 +1,4 @@
-Visual represenation from stars of the library HabHYG (http://www.projectrho.com/public_html/starmaps/catalogues.php) with Unity 3d
+Visual represenation from stars of the HabHYG catalogue (http://www.projectrho.com/public_html/starmaps/catalogues.php) with Unity 3d
 Based in "Cooking With Unity Casual Sunday: Star Data" (https://www.youtube.com/watch?v=94aXHRt_024) From PushyPixels
 
 TODO:
